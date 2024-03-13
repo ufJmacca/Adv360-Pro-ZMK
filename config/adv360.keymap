@@ -23,7 +23,7 @@
             bindings = <&kp ENTER>;
         };
     };
-    
+
     behaviors {
       #include "macros.dtsi"
       #include "version.dtsi"
@@ -85,7 +85,7 @@
         &none &none &none &none &none &none  &none                                           &none &none &none &kp UP &none  &none  &none
         &none &none &none &none &none &none  &none        &none &none &none &none        &none &none &kp LEFT &kp DOWN &kp RIGHT  &none  &none
         &none &none &none &none &none &none                      &none &none                     &none &kp C_PP &kp K_VOL_UP &none  &none  &none
-        &none &none &none &none &none               &none &none &none &none &none &none              &kp K_MUTE &kp K_VOL_DOWN &none  &none  &none
+        &none &none &none &none &none               &none &none &none &none &none &none              &kp K_MUTE &kp K_VOL_DN &none  &none  &none
       >;
     };
     mod {
