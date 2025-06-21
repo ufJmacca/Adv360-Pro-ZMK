@@ -79,7 +79,7 @@
         &none &none &none &none &none &none &mo 4                                           &mo 6 &none &none &none &none &none &none
         &none &kp N1    &kp N2   &kp N3   &kp N4  &none    &none      &none &none &none &none &none  &none  &none
         &none &kp ESC &kp F1 &kp F2 &hm LEFT_SHIFT F3 &kp F4  &none   &none &none &none &none                                         &none &none &mkp LCLK &mkp LCLK &none  &none  &none
-        &nonde &kp LEFT_CONTROL &kp LEFT_ALT &kp LEFT_GUI &kp LEFT_SHIFT &none                      &none &none                     &none &none &none &none  &none  &none
+        &none &kp LEFT_CONTROL &kp LEFT_ALT &kp LEFT_GUI &kp LEFT_SHIFT &none                      &none &none                     &none &none &none &none  &none  &none
         &mo 5  &none &none &none &none              &kp BSPC &kp DEL &none &none &none &none              &none &none &none  &none  &mo 5 
       >;
     };
